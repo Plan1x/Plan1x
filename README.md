@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **irubtsov05@icloud.com**
 
-- 📄 Know about my experiences **All my experience is reflected in my projects**
 
 - ⚡ Fun fact **I am funny**
 
