@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Stm32, Esp32, Git**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Plan1x?tab=repositories](https://github.com/Plan1x?tab=repositories)
+- 👨‍💻 All of my projects are available at <p align="left">  <a href="https://github.com/Plan1x?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png" alt="c" width="40" height="40"/> </a></p>
 
 - 📫 How to reach me **irubtsov05@icloud.com**
 
