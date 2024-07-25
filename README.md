@@ -13,7 +13,6 @@
 - 📫 How to reach me **irubtsov05@icloud.com**
 
 
-- ⚡ Fun fact **I am funny**
 
 
 
