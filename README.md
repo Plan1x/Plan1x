@@ -23,7 +23,7 @@
 <p align="left">
 
 
-<a href="(https://t.me/plan1xaa)" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_960_720.png" alt="plan1xaa" height="40" width="40" /></a>
+<a href="https://t.me/plan1xaa" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_960_720.png" alt="plan1xaa" height="40" width="40" /></a>
   
 </p>
 
