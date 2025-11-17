@@ -1,4 +1,3 @@
-![MasterHead](https://www.pentalog.com/wp-content/uploads/2019/08/Embedded-Software-Development.jpg)
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Junior embedded software developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -23,7 +22,7 @@
 <p align="left">
 
 
-<a href="https://t.me/plan1xaa" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_960_720.png" alt="plan1xaa" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivan-rubtsov-47b285300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-linkedin-icon-logo.png" alt="plan1xaa" height="40" width="40" /></a>
   
 </p>
 
