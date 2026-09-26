@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Linux C/C++ Software Engineer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plan1x&label=Profile%20views&color=0e75b6&style=flat" alt="plan1x" /> </p>
-
-- 🌱 I’m currently learning **Stm32, Esp32, Git**
-
-- 👨‍💻 All of my projects are available at <p align="left">  <a href="https://github.com/Plan1x?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png" alt="c" width="40" height="40"/> </a></p>
-
-- 📫 How to reach me **irubtsov05@icloud.com**
-
-
-
+<h3 align="center">Linux C++ Software Engineer from Ukraine</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 <h3 align="left">Languages and Tools:</h3>
